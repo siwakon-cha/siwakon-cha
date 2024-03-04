@@ -18,12 +18,13 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const siwakon = {
     pronouns: "He" | "Him",
-    code: ["Typescript","Javascript","Java","Kotlin","C++","Solidity","Python","SQL"],
+    code: ["Typescript","Javascript","Java","Go","Kotlin","C++","Solidity","Python","SQL"],
     askMeAbout: ["blockchain", "tech", "web", "api"],
     technologies: {
         backend: {
             js: ["Node", "Nest", "Express"],
             java: ["Spring Boot"],
+            go: ["Gin"]
         },
         frontend: {
             js: ["React","Next"]
